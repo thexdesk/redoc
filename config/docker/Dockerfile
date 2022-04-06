@@ -7,7 +7,7 @@
 
 FROM node:alpine
 
-RUN apk update && apk add --no-cache git 
+RUN apk update && apk add --no-cache git
 
 # Install dependencies
 WORKDIR /build
