@@ -12,7 +12,7 @@
 # To turn `swagger.yml` file in the current directory, to html documentation 'redoc-static.html'
 # $  docker run --rm -it  -v $PWD:/data redoc-cli bundle swagger.yml
 
-FROM node:alpine
+FROM node:21.2-alpine3.18
 
 RUN npm install -g redoc-cli
 
