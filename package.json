@@ -135,7 +135,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "decko": "^1.2.0",
-    "dompurify": "^2.0.7",
+    "dompurify": "^2.5.4",
     "eventemitter3": "^4.0.0",
     "json-pointer": "^0.6.0",
     "json-schema-ref-parser": "^6.1.0",
