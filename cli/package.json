@@ -22,7 +22,7 @@
     "redoc": "2.0.0-rc.23",
     "styled-components": "^4.3.2",
     "tslib": "^1.10.0",
-    "yargs": "^13.3.0"
+    "yargs": "^18.0.0"
   },
   "publishConfig": {
     "access": "public"
